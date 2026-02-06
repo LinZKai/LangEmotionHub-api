@@ -16,7 +16,7 @@ LangEmotionHub API 是支援多使用者的個人化語言模型後端系統，�
 
 
 ## 技術架構
-<img width="2048" height="1144" alt="image" src="https://github.com/user-attachments/assets/6f9f65ff-70dd-4395-802d-37131fee53f9" />
+<img width="1632" height="912" alt="image" src="https://github.com/user-attachments/assets/ae227619-a86a-43f9-94fc-d7309808f1e7" />
 
 1. **Web App**
    - 上傳聊天紀錄（.txt / .csv）
@@ -77,7 +77,7 @@ LangEmotionHub API 是支援多使用者的個人化語言模型後端系統，�
 此設計使模型在保留長期語言風格的同時，能根據當前情境生成更準確回應。
 
 ## Fine-tuning 效果展示
-<img width="1630" height="912" alt="image" src="https://github.com/user-attachments/assets/003909ec-32d9-43ae-9dc2-aee665f4527f" />
+<img width="1630" height="912" alt="image" src="https://github.com/user-attachments/assets/00b9b414-9678-4b17-a428-3c93f1d035d8" />
 
 
 ## 專案背景與團隊
